@@ -6,3 +6,9 @@ See the Preview :
 
 See Live at my portfolio: [Projects](https://sourabhgour.online/#projects)
 
+
+To Use just Clone it using command :
+
+```bash
+git clone https://github.com/Sourabh9267/GTA-V-GSAPScrollTrigger-WebPage.git
+```
